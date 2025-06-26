@@ -157,15 +157,13 @@ lib/
 
 ## 👥 Anggota Kelompok
 
-| Nama Lengkap                | NRP          | Role                             |
-|-----------------------------|--------------|----------------------------------|
-| [Dovy Adeeb Farizky]        | [5026221033] | Frontend & Backend Developer     |
-| [Ferdiansyah Yusuf M.]      | [5026221152] | Frontend & Backend Developer     |
-| [Candleline Audrina Firsta] | [5026221159] | Frontend & Backend Developer     |
-| [Keysha Alivanno P.R.]      | [5026221178] | Frontend & Backend Developer     |
-| [Rizal Ramadhan ]           | [5026221199] | Project Manager, UI/UX Designer, |
-|                             |              | Frontend & Backend Developer,    |
-|                             |              | Mobile Developer & QA Tester     |
+| Nama Lengkap | NRP | Role |
+|--------------|-----|------|
+| Dovy Adeeb Farizky | 5026221033 | Frontend & Backend Developer |
+| Ferdiansyah Yusuf M. | 5026221152 | Frontend & Backend Developer |
+| Candleline Audrina Firsta | 5026221159 | Frontend & Backend Developer |
+| Keysha Alivanno P.R. | 5026221178 | Frontend & Backend Developer |
+| Rizal Ramadhan | 5026221191 | Project Manager, UI/UX Designer, Frontend & Backend Developer, Mobile Developer & QA Tester |
 
 ## 📸 Screenshots
 
